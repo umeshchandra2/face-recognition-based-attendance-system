@@ -2,7 +2,7 @@
 
 This is a web based attendance system using facial recognition
 
-![Face Recognition Based Attendance System](ss.png)
+![Face Recognition Based Attendance System](ss1.png)
 
 
 
