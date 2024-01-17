@@ -1,5 +1,8 @@
 # face-recognition-based-attendance-system  
 
-Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
+This is a web based attendance system using facial recognition
 
 ![Face Recognition Based Attendance System](ss.png)
+
+
+
